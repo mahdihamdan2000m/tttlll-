@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ps.tibal.app",
+      "sha256_cert_fingerprints": [
+        "B0:02:4C:BB:AB:90:90:F6:37:FC:CE:07:DF:06:2F:DC:CE:3A:1F:84:74:59:F0:F1:BC:F3:97:AF:90:1E:73:F6"
+      ]
+    }
+  }
+]
